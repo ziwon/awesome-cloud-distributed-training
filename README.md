@@ -1,4 +1,4 @@
-# awesome-distributed-ml
+# awesome-distributed-dl
 
 # Cloud GPU
 - [Top ten cloud GPUplatforms For deep learning (2024)](https://media.licdn.com/dms/document/media/D4D1FAQHXrrDel4d6YQ/feedshare-document-pdf-analyzed/0/1708953294792?e=1710374400&v=beta&t=y6zh7ysgV7iEZL40VjLUx2ntrlMzvNnl3zMlWLr5rpk)
