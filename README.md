@@ -1,26 +1,26 @@
 # awesome-distributed-dl
 
-# Cloud GPU
+## Cloud GPU
 - [Top ten cloud GPUplatforms For deep learning (2024)](https://media.licdn.com/dms/document/media/D4D1FAQHXrrDel4d6YQ/feedshare-document-pdf-analyzed/0/1708953294792?e=1710374400&v=beta&t=y6zh7ysgV7iEZL40VjLUx2ntrlMzvNnl3zMlWLr5rpk)
 - [Choosing the right GPU for deep learning on AWS (2020)](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)
 
-# Frameworks
+## Frameworks
 - [DoEKS](https://github.com/awslabs/data-on-eks)
 - [Ray](https://github.com/ray-project/ray)
 - [Horovod](https://github.com/horovod/horovod)
 - [Spotty](https://github.com/spotty-cloud/spotty)
 
-# Kubernetes
+## Kubernetes
 - [KubeSphere](https://github.com/kubesphere/kubesphere)
 
-# AWS
+## AWS
 - [ML Training Reference Architectures & Tests](https://github.com/aws-samples/awsome-distributed-training)
 
-# RAY
+## RAY
 - https://github.com/rileyhun/llm_finetuning_metaflow/tree/main/ray-distributed
 - [Getting Started with Distributed Machine Learning with PyTorch and Ray](https://medium.com/distributed-computing-with-ray/getting-started-with-distributed-machine-learning-with-pytorch-and-ray-27175a1b4f25)
 
-# Usecases
+## Articles
 - [Distributed machine learning with Amazon ECS](https://aws.amazon.com/blogs/containers/distributed-machine-learning-with-amazon-ecs/)
 - [(Lunit) Intelligent Cloud — Part 1: Introduction to Lunit’s Cloud Deep Learning Platform for Efficient Model Training](https://medium.com/lunit/intelligent-cloud-part-1-introduction-to-lunits-cloud-deep-learning-platform-for-efficient-94fd2da2a3f2)
 - [(Lunit) Intelligent Cloud — Part 2: A Deep Dive into the Architecture and Technical Details of INCL](https://medium.com/lunit/intelligent-cloud-part-2-a-deep-dive-into-the-architecture-and-technical-details-of-incl-b808b39f9f9f)
